@@ -10,4 +10,4 @@
 
 In VS Code, ctrl + P -> select interpreter -> select .venv/Scripts/python.exe
 
-To use Git with Colab, follow these instructions https://www.geeksforgeeks.org/how-to-install-and-use-git-in-google-colab/
+To use Git with Colab, select Open Notebook -> GitHub -> Search for the repo url. Saving will now save as a new commit. 
