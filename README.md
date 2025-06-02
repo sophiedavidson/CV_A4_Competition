@@ -5,6 +5,8 @@
 ```python venv .venv```
 ```./.venv/Scripts/activate.ps1```
 ```pip install -r requirements.txt```
+```git-lfs install```
+```git lfs pull``` (to get the data)
 
 In VS Code, ctrl + P -> select interpreter -> select .venv/Scripts/python.exe
 
