@@ -2,11 +2,11 @@
 ## Authors: Sophie Davidson and Austen Lindsay
 
 ## Setup Guide
-```python venv .venv```
-```./.venv/Scripts/activate.ps1```
-```pip install -r requirements.txt```
-```git-lfs install```
-```git lfs pull``` (to get the data)
+    python venv .venv
+    ./.venv/Scripts/activate.ps1
+    pip install -r requirements.txt
+    git-lfs install
+    git lfs pull
 
 In VS Code, ctrl + P -> select interpreter -> select .venv/Scripts/python.exe
 
